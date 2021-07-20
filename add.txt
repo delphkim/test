@@ -1,5 +1,6 @@
 add 
 edited by local 
 fetch example
+local 
 pull example
 pull example2
